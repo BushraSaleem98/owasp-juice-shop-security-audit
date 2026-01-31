@@ -31,5 +31,11 @@ The assessment was conducted in a controlled local environment strictly for educ
 📄 Full detailed report available here:
 - `Security_Audit_Report-_OWASP_Juice_Shop.pdf`
 
+## LinkedIn post link:
+https://www.linkedin.com/feed/update/urn:li:ugcPost:7423337604403802112/
+
 ## Disclaimer
 This project was conducted on an intentionally vulnerable application for learning purposes only.
+
+## Author
+Bushra Saleem
